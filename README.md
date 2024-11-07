@@ -63,7 +63,7 @@ plt.show()
 
 
 
-# Result
-        The Correlation and regression for data analysis of object from feeder using probability distribution are calculated
+# Result:
+The Correlation and regression for data analysis of object from feeder using probability distribution are calculated
 
 
